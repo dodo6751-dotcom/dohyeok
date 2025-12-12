@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'SejongJaeumiMoeumiBold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/2510-3@1.0/SejongJaeumiMoeumi-Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-display: swap;
+}
+
+
+
+body{
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    background-color: blue;
+    color: white;
+    font-family: 'SejongJaeumiMoeumiBold';
+    justify-content: center;
+}
+
+.box-1{
+    font-size: 64px;
+}
